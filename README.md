@@ -1,6 +1,5 @@
-# Guidelight-Crosswalk
+# Project: LED Pedestrian Crosswalk Prototype
 
-Project: LED Pedestrian Crosswalk Prototype
 
 Developed a prototype LED light system designed to improve pedestrian safety at crosswalks during low-visibility conditions such as nighttime and adverse weather. The system uses an Arduino microcontroller to control a sequence of LEDs embedded along a crosswalk, simulating directional lighting to alert drivers and guide pedestrians safely across.
 
