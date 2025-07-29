@@ -14,7 +14,9 @@ Structured the code modularly to easily scale the number of LEDs and adjust timi
 Encased the hardware prototype in a protective housing for demonstration and testing purposes.
 
 
+
 Testing:
+
 
 Applied unit testing using the ArduinoUnit (Unity) framework to verify the correctness of core sequencing functions responsible for LED activation order.
 
