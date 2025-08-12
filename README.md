@@ -18,7 +18,7 @@ Encased the hardware prototype in a protective housing for demonstration and tes
 Testing:
 
 
-Applied unit testing using the ArduinoUnit (Unity) framework to verify the correctness of core sequencing functions responsible for LED activation order.
+Applied unit testing using the ArduinoUnit framework to verify the correctness of core sequencing functions responsible for LED activation order.
 
 Created test cases to validate that the logic functions return accurate LED pin numbers for both forward and backward sequences.
 
